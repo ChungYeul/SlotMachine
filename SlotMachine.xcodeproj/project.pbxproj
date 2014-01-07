@@ -21,6 +21,16 @@
 		F85C7240187C330700052B67 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F85C7222187C330700052B67 /* UIKit.framework */; };
 		F85C7248187C330700052B67 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F85C7246187C330700052B67 /* InfoPlist.strings */; };
 		F85C724A187C330700052B67 /* SlotMachineTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F85C7249187C330700052B67 /* SlotMachineTests.m */; };
+		F85C7271187C4D2D00052B67 /* image0.png in Resources */ = {isa = PBXBuildFile; fileRef = F85C7267187C4D2D00052B67 /* image0.png */; };
+		F85C7272187C4D2D00052B67 /* image1.png in Resources */ = {isa = PBXBuildFile; fileRef = F85C7268187C4D2D00052B67 /* image1.png */; };
+		F85C7273187C4D2D00052B67 /* image2.png in Resources */ = {isa = PBXBuildFile; fileRef = F85C7269187C4D2D00052B67 /* image2.png */; };
+		F85C7274187C4D2D00052B67 /* image3.png in Resources */ = {isa = PBXBuildFile; fileRef = F85C726A187C4D2D00052B67 /* image3.png */; };
+		F85C7275187C4D2D00052B67 /* image4.png in Resources */ = {isa = PBXBuildFile; fileRef = F85C726B187C4D2D00052B67 /* image4.png */; };
+		F85C7276187C4D2D00052B67 /* image5.png in Resources */ = {isa = PBXBuildFile; fileRef = F85C726C187C4D2D00052B67 /* image5.png */; };
+		F85C7277187C4D2D00052B67 /* image6.png in Resources */ = {isa = PBXBuildFile; fileRef = F85C726D187C4D2D00052B67 /* image6.png */; };
+		F85C7278187C4D2D00052B67 /* image7.png in Resources */ = {isa = PBXBuildFile; fileRef = F85C726E187C4D2D00052B67 /* image7.png */; };
+		F85C7279187C4D2D00052B67 /* image8.png in Resources */ = {isa = PBXBuildFile; fileRef = F85C726F187C4D2D00052B67 /* image8.png */; };
+		F85C727A187C4D2D00052B67 /* image9.png in Resources */ = {isa = PBXBuildFile; fileRef = F85C7270187C4D2D00052B67 /* image9.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +63,16 @@
 		F85C7245187C330700052B67 /* SlotMachineTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SlotMachineTests-Info.plist"; sourceTree = "<group>"; };
 		F85C7247187C330700052B67 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F85C7249187C330700052B67 /* SlotMachineTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SlotMachineTests.m; sourceTree = "<group>"; };
+		F85C7267187C4D2D00052B67 /* image0.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image0.png; sourceTree = "<group>"; };
+		F85C7268187C4D2D00052B67 /* image1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image1.png; sourceTree = "<group>"; };
+		F85C7269187C4D2D00052B67 /* image2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image2.png; sourceTree = "<group>"; };
+		F85C726A187C4D2D00052B67 /* image3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image3.png; sourceTree = "<group>"; };
+		F85C726B187C4D2D00052B67 /* image4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image4.png; sourceTree = "<group>"; };
+		F85C726C187C4D2D00052B67 /* image5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image5.png; sourceTree = "<group>"; };
+		F85C726D187C4D2D00052B67 /* image6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image6.png; sourceTree = "<group>"; };
+		F85C726E187C4D2D00052B67 /* image7.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image7.png; sourceTree = "<group>"; };
+		F85C726F187C4D2D00052B67 /* image8.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image8.png; sourceTree = "<group>"; };
+		F85C7270187C4D2D00052B67 /* image9.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image9.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +132,16 @@
 		F85C7224187C330700052B67 /* SlotMachine */ = {
 			isa = PBXGroup;
 			children = (
+				F85C7267187C4D2D00052B67 /* image0.png */,
+				F85C7268187C4D2D00052B67 /* image1.png */,
+				F85C7269187C4D2D00052B67 /* image2.png */,
+				F85C726A187C4D2D00052B67 /* image3.png */,
+				F85C726B187C4D2D00052B67 /* image4.png */,
+				F85C726C187C4D2D00052B67 /* image5.png */,
+				F85C726D187C4D2D00052B67 /* image6.png */,
+				F85C726E187C4D2D00052B67 /* image7.png */,
+				F85C726F187C4D2D00052B67 /* image8.png */,
+				F85C7270187C4D2D00052B67 /* image9.png */,
 				F85C722D187C330700052B67 /* AppDelegate.h */,
 				F85C722E187C330700052B67 /* AppDelegate.m */,
 				F85C7230187C330700052B67 /* Main.storyboard */,
@@ -228,7 +258,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F85C7275187C4D2D00052B67 /* image4.png in Resources */,
+				F85C7273187C4D2D00052B67 /* image2.png in Resources */,
+				F85C7277187C4D2D00052B67 /* image6.png in Resources */,
+				F85C7274187C4D2D00052B67 /* image3.png in Resources */,
+				F85C727A187C4D2D00052B67 /* image9.png in Resources */,
+				F85C7276187C4D2D00052B67 /* image5.png in Resources */,
+				F85C7272187C4D2D00052B67 /* image1.png in Resources */,
 				F85C7237187C330700052B67 /* Images.xcassets in Resources */,
+				F85C7279187C4D2D00052B67 /* image8.png in Resources */,
+				F85C7271187C4D2D00052B67 /* image0.png in Resources */,
+				F85C7278187C4D2D00052B67 /* image7.png in Resources */,
 				F85C7229187C330700052B67 /* InfoPlist.strings in Resources */,
 				F85C7232187C330700052B67 /* Main.storyboard in Resources */,
 			);
